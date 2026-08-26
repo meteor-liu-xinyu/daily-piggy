@@ -1,6 +1,6 @@
 module github.com/meteor-liu-xinyu/daily-piggy
 
-go 1.27.0
+go 1.25.0
 
 require github.com/meteor-liu-xinyu/md2img-lite v0.1.0
 
